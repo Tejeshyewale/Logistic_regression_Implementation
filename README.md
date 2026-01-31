@@ -159,17 +159,7 @@ Includes:
    ```bash
    python logistic_regression.py
    ```
-
 ---
-
-## 🛠 Requirements
-
-```
-pandas
-numpy
-scikit-learn
-```
-
 ---
 
 ## 📌 Real-World Applications
